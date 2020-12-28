@@ -50,7 +50,7 @@ This repo contains the implementation of **ActiveLink** (*Ref: Ostapuk, N., et a
     + embedding, which is trained as mentioned in the original repo 
     + Entity2id and relation2id txt files 
     + train, test and valid files 
-  + Dataset: FB15k-237
+  + Dataset: FB15k-237, wikidata-300k
 
 
 
